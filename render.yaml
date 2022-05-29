@@ -7,6 +7,6 @@ services:
     startCommand: yarn start
     envVars:
       - key: DROPBOX_TOKEN
-        value: 'sl.BIfH-VjND3T7LKG9Jqf_3Rc3-ETwHSXYSkpBwu9puhWkvwHsq6C4YgFC0TYjK4mofZ2ppH5inI6z-h-TygZcA68MSTqIqnimXDuD0gt8De6ChVA-zTWHLQpRSO49QJ2Nl0HAz40rW_E'
+        value: 'C17II9MZfRYAAAAAAAAAAeYArLJIlYRjPa68uxttN6nD4Baua-xC2qw9qjWhud-q'
       - key: NEXT_PUBLIC_TITLE
         value: Luffy
